@@ -1,0 +1,2393 @@
+{
+  "words": [
+    "me",
+    "you",
+    "he",
+    "we",
+    "they",
+    "my",
+    "your",
+    "our",
+    "his",
+    "that",
+    "who",
+    "what",
+    "where",
+    "when",
+    "why",
+    "how",
+    "which",
+    "hello",
+    "bye",
+    "please",
+    "sorry",
+    "thankyou",
+    "welcome",
+    "excuse",
+    "yes",
+    "no",
+    "not",
+    "nice",
+    "fine",
+    "want",
+    "need",
+    "like",
+    "love",
+    "have",
+    "go",
+    "come",
+    "eat",
+    "drink",
+    "sleep",
+    "work",
+    "study",
+    "learn",
+    "read",
+    "write",
+    "play",
+    "help",
+    "know",
+    "understand",
+    "think",
+    "feel",
+    "see",
+    "watch",
+    "hear",
+    "listen",
+    "tell",
+    "ask",
+    "give",
+    "take",
+    "buy",
+    "pay",
+    "make",
+    "cook",
+    "drive",
+    "walk",
+    "run",
+    "sit",
+    "finish",
+    "start",
+    "stop",
+    "wait",
+    "meet",
+    "live",
+    "call",
+    "sign",
+    "remember",
+    "try",
+    "can",
+    "will",
+    "must",
+    "should",
+    "dance",
+    "travel",
+    "visit",
+    "practice",
+    "enjoy",
+    "change",
+    "today",
+    "tomorrow",
+    "yesterday",
+    "now",
+    "later",
+    "morning",
+    "night",
+    "week",
+    "weekend",
+    "month",
+    "year",
+    "time",
+    "day",
+    "always",
+    "never",
+    "sometimes",
+    "again",
+    "before",
+    "after",
+    "soon",
+    "late",
+    "home",
+    "school",
+    "house",
+    "restaurant",
+    "hospital",
+    "library",
+    "class",
+    "room",
+    "bathroom",
+    "kitchen",
+    "city",
+    "outside",
+    "here",
+    "there",
+    "mother",
+    "father",
+    "sister",
+    "brother",
+    "family",
+    "friend",
+    "baby",
+    "boy",
+    "girl",
+    "man",
+    "woman",
+    "child",
+    "teacher",
+    "student",
+    "doctor",
+    "nurse",
+    "person",
+    "people",
+    "name",
+    "deaf",
+    "hearing",
+    "interpreter",
+    "water",
+    "coffee",
+    "tea",
+    "milk",
+    "juice",
+    "pizza",
+    "apple",
+    "banana",
+    "bread",
+    "fish",
+    "egg",
+    "soup",
+    "sandwich",
+    "candy",
+    "cake",
+    "breakfast",
+    "lunch",
+    "dinner",
+    "bed",
+    "car",
+    "bus",
+    "airplane",
+    "book",
+    "computer",
+    "phone",
+    "tv",
+    "movie",
+    "music",
+    "game",
+    "money",
+    "shirt",
+    "shoes",
+    "clothes",
+    "test",
+    "homework",
+    "medicine",
+    "birthday",
+    "party",
+    "basketball",
+    "dog",
+    "cat",
+    "bird",
+    "good",
+    "bad",
+    "happy",
+    "sad",
+    "tired",
+    "sick",
+    "hungry",
+    "thirsty",
+    "hot",
+    "cold",
+    "big",
+    "small",
+    "new",
+    "old",
+    "slow",
+    "busy",
+    "ready",
+    "right",
+    "wrong",
+    "easy",
+    "hard",
+    "same",
+    "different",
+    "fun",
+    "favorite",
+    "excited",
+    "angry",
+    "scared",
+    "more",
+    "many",
+    "all",
+    "some",
+    "one",
+    "two",
+    "three",
+    "first",
+    "last",
+    "very",
+    "and",
+    "but",
+    "or",
+    "with",
+    "because",
+    "maybe",
+    "language",
+    "english",
+    "fingerspell",
+    "color",
+    "red",
+    "blue",
+    "black",
+    "white",
+    "weather",
+    "rain",
+    "snow"
+  ],
+  "categories": {
+    "Pronouns & pointing": [
+      "me",
+      "you",
+      "he",
+      "we",
+      "they",
+      "my",
+      "your",
+      "our",
+      "his",
+      "that"
+    ],
+    "Questions": [
+      "who",
+      "what",
+      "where",
+      "when",
+      "why",
+      "how",
+      "which"
+    ],
+    "Greetings & social": [
+      "hello",
+      "bye",
+      "please",
+      "sorry",
+      "thankyou",
+      "welcome",
+      "excuse",
+      "yes",
+      "no",
+      "not",
+      "nice",
+      "fine"
+    ],
+    "Verbs": [
+      "want",
+      "need",
+      "like",
+      "love",
+      "have",
+      "go",
+      "come",
+      "eat",
+      "drink",
+      "sleep",
+      "work",
+      "study",
+      "learn",
+      "read",
+      "write",
+      "play",
+      "help",
+      "know",
+      "understand",
+      "think",
+      "feel",
+      "see",
+      "watch",
+      "hear",
+      "listen",
+      "tell",
+      "ask",
+      "give",
+      "take",
+      "buy",
+      "pay",
+      "make",
+      "cook",
+      "drive",
+      "walk",
+      "run",
+      "sit",
+      "finish",
+      "start",
+      "stop",
+      "wait",
+      "meet",
+      "live",
+      "call",
+      "sign",
+      "remember",
+      "try",
+      "can",
+      "will",
+      "must",
+      "should",
+      "dance",
+      "travel",
+      "visit",
+      "practice",
+      "enjoy",
+      "change"
+    ],
+    "Time": [
+      "today",
+      "tomorrow",
+      "yesterday",
+      "now",
+      "later",
+      "morning",
+      "night",
+      "week",
+      "weekend",
+      "month",
+      "year",
+      "time",
+      "day",
+      "always",
+      "never",
+      "sometimes",
+      "again",
+      "before",
+      "after",
+      "soon",
+      "late"
+    ],
+    "Places": [
+      "home",
+      "school",
+      "house",
+      "restaurant",
+      "hospital",
+      "library",
+      "class",
+      "room",
+      "bathroom",
+      "kitchen",
+      "city",
+      "outside",
+      "here",
+      "there"
+    ],
+    "People & family": [
+      "mother",
+      "father",
+      "sister",
+      "brother",
+      "family",
+      "friend",
+      "baby",
+      "boy",
+      "girl",
+      "man",
+      "woman",
+      "child",
+      "teacher",
+      "student",
+      "doctor",
+      "nurse",
+      "person",
+      "people",
+      "name",
+      "deaf",
+      "hearing",
+      "interpreter"
+    ],
+    "Food & drink": [
+      "water",
+      "coffee",
+      "tea",
+      "milk",
+      "juice",
+      "pizza",
+      "apple",
+      "banana",
+      "bread",
+      "fish",
+      "egg",
+      "soup",
+      "sandwich",
+      "candy",
+      "cake",
+      "breakfast",
+      "lunch",
+      "dinner"
+    ],
+    "Things": [
+      "bed",
+      "car",
+      "bus",
+      "airplane",
+      "book",
+      "computer",
+      "phone",
+      "tv",
+      "movie",
+      "music",
+      "game",
+      "money",
+      "shirt",
+      "shoes",
+      "clothes",
+      "test",
+      "homework",
+      "medicine",
+      "birthday",
+      "party",
+      "basketball"
+    ],
+    "Animals": [
+      "dog",
+      "cat",
+      "bird"
+    ],
+    "Describing": [
+      "good",
+      "bad",
+      "happy",
+      "sad",
+      "tired",
+      "sick",
+      "hungry",
+      "thirsty",
+      "hot",
+      "cold",
+      "big",
+      "small",
+      "new",
+      "old",
+      "slow",
+      "busy",
+      "ready",
+      "right",
+      "wrong",
+      "easy",
+      "hard",
+      "same",
+      "different",
+      "fun",
+      "favorite",
+      "excited",
+      "angry",
+      "scared"
+    ],
+    "Amounts & numbers": [
+      "more",
+      "many",
+      "all",
+      "some",
+      "one",
+      "two",
+      "three",
+      "first",
+      "last",
+      "very"
+    ],
+    "Connectors": [
+      "and",
+      "but",
+      "or",
+      "with",
+      "because",
+      "maybe"
+    ],
+    "Language, colors & weather": [
+      "language",
+      "english",
+      "fingerspell",
+      "color",
+      "red",
+      "blue",
+      "black",
+      "white",
+      "weather",
+      "rain",
+      "snow"
+    ]
+  },
+  "source_glosses": {
+    "me": [
+      "ME"
+    ],
+    "you": [
+      "YOU"
+    ],
+    "he": [
+      "HE"
+    ],
+    "we": [
+      "WE"
+    ],
+    "they": [
+      "THEY1",
+      "THEY2"
+    ],
+    "my": [
+      "MY"
+    ],
+    "your": [
+      "YOUR"
+    ],
+    "our": [
+      "OUR"
+    ],
+    "his": [
+      "HIS"
+    ],
+    "that": [
+      "THAT"
+    ],
+    "who": [
+      "WHO"
+    ],
+    "what": [
+      "W.H.A.T",
+      "WHAT1",
+      "WHAT2"
+    ],
+    "where": [
+      "WHERE"
+    ],
+    "when": [
+      "WHEN"
+    ],
+    "why": [
+      "WHY"
+    ],
+    "how": [
+      "HOW1",
+      "HOW2"
+    ],
+    "which": [
+      "WHICH"
+    ],
+    "hello": [
+      "HELLO"
+    ],
+    "bye": [
+      "BYE"
+    ],
+    "please": [
+      "PLEASE"
+    ],
+    "sorry": [
+      "SORRY"
+    ],
+    "thankyou": [
+      "THANKYOU"
+    ],
+    "welcome": [
+      "WELCOME1",
+      "WELCOME2"
+    ],
+    "excuse": [
+      "EXCUSE"
+    ],
+    "yes": [
+      "YES"
+    ],
+    "no": [
+      "NO"
+    ],
+    "not": [
+      "NOT"
+    ],
+    "nice": [
+      "NICE"
+    ],
+    "fine": [
+      "FINE1",
+      "FINE2"
+    ],
+    "want": [
+      "WANT1",
+      "WANT2"
+    ],
+    "need": [
+      "NEED"
+    ],
+    "like": [
+      "LIKE"
+    ],
+    "love": [
+      "LOVE"
+    ],
+    "have": [
+      "HAVE"
+    ],
+    "go": [
+      "GO"
+    ],
+    "come": [
+      "COME"
+    ],
+    "eat": [
+      "EAT1",
+      "EAT2"
+    ],
+    "drink": [
+      "DRINK1",
+      "DRINK2"
+    ],
+    "sleep": [
+      "SLEEP"
+    ],
+    "work": [
+      "WORK"
+    ],
+    "study": [
+      "STUDY"
+    ],
+    "learn": [
+      "LEARN"
+    ],
+    "read": [
+      "READ"
+    ],
+    "write": [
+      "WRITE"
+    ],
+    "play": [
+      "PLAY"
+    ],
+    "help": [
+      "HELP"
+    ],
+    "know": [
+      "KNOW"
+    ],
+    "understand": [
+      "UNDERSTAND"
+    ],
+    "think": [
+      "THINK"
+    ],
+    "feel": [
+      "FEEL"
+    ],
+    "see": [
+      "SEE"
+    ],
+    "watch": [
+      "WATCH"
+    ],
+    "hear": [
+      "HEAR1",
+      "HEAR2"
+    ],
+    "listen": [
+      "LISTEN"
+    ],
+    "tell": [
+      "TELL"
+    ],
+    "ask": [
+      "ASK"
+    ],
+    "give": [
+      "GIVE"
+    ],
+    "take": [
+      "TAKE"
+    ],
+    "buy": [
+      "BUY"
+    ],
+    "pay": [
+      "PAY"
+    ],
+    "make": [
+      "MAKE"
+    ],
+    "cook": [
+      "COOK"
+    ],
+    "drive": [
+      "DRIVE"
+    ],
+    "walk": [
+      "WALK1",
+      "WALK2"
+    ],
+    "run": [
+      "RUN1",
+      "RUN2"
+    ],
+    "sit": [
+      "SIT"
+    ],
+    "finish": [
+      "FINISH"
+    ],
+    "start": [
+      "START"
+    ],
+    "stop": [
+      "STOP"
+    ],
+    "wait": [
+      "WAIT"
+    ],
+    "meet": [
+      "MEET"
+    ],
+    "live": [
+      "LIVE1",
+      "LIVE2"
+    ],
+    "call": [
+      "CALL1",
+      "CALL2"
+    ],
+    "sign": [
+      "SIGN"
+    ],
+    "remember": [
+      "REMEMBER1",
+      "REMEMBER2"
+    ],
+    "try": [
+      "TRY"
+    ],
+    "can": [
+      "CAN1",
+      "CAN2"
+    ],
+    "will": [
+      "WILL"
+    ],
+    "must": [
+      "MUST"
+    ],
+    "should": [
+      "SHOULD"
+    ],
+    "dance": [
+      "DANCE"
+    ],
+    "travel": [
+      "TRAVEL"
+    ],
+    "visit": [
+      "VISIT"
+    ],
+    "practice": [
+      "PRACTICE"
+    ],
+    "enjoy": [
+      "ENJOY"
+    ],
+    "change": [
+      "CHANGE"
+    ],
+    "today": [
+      "TODAY"
+    ],
+    "tomorrow": [
+      "TOMORROW"
+    ],
+    "yesterday": [
+      "YESTERDAY"
+    ],
+    "now": [
+      "NOW"
+    ],
+    "later": [
+      "LATER"
+    ],
+    "morning": [
+      "MORNING"
+    ],
+    "night": [
+      "NIGHT1",
+      "NIGHT2"
+    ],
+    "week": [
+      "WEEK"
+    ],
+    "weekend": [
+      "WEEKEND"
+    ],
+    "month": [
+      "MONTH"
+    ],
+    "year": [
+      "YEAR"
+    ],
+    "time": [
+      "TIME"
+    ],
+    "day": [
+      "DAY"
+    ],
+    "always": [
+      "ALWAYS"
+    ],
+    "never": [
+      "NEVER"
+    ],
+    "sometimes": [
+      "SOMETIMES"
+    ],
+    "again": [
+      "AGAIN"
+    ],
+    "before": [
+      "BEFORE"
+    ],
+    "after": [
+      "AFTER"
+    ],
+    "soon": [
+      "SOON1",
+      "SOON2"
+    ],
+    "late": [
+      "LATE"
+    ],
+    "home": [
+      "HOME"
+    ],
+    "school": [
+      "SCHOOL"
+    ],
+    "house": [
+      "HOUSE"
+    ],
+    "restaurant": [
+      "RESTAURANT"
+    ],
+    "hospital": [
+      "HOSPITAL1",
+      "HOSPITAL2"
+    ],
+    "library": [
+      "LIBRARY"
+    ],
+    "class": [
+      "CLASS"
+    ],
+    "room": [
+      "ROOM"
+    ],
+    "bathroom": [
+      "BATHROOM"
+    ],
+    "kitchen": [
+      "KITCHEN"
+    ],
+    "city": [
+      "CITY1",
+      "CITY2"
+    ],
+    "outside": [
+      "OUTSIDE"
+    ],
+    "here": [
+      "HERE"
+    ],
+    "there": [
+      "THERE"
+    ],
+    "mother": [
+      "MOTHER"
+    ],
+    "father": [
+      "FATHER"
+    ],
+    "sister": [
+      "SISTER"
+    ],
+    "brother": [
+      "BROTHER"
+    ],
+    "family": [
+      "FAMILY"
+    ],
+    "friend": [
+      "FRIEND"
+    ],
+    "baby": [
+      "BABY1",
+      "BABY2"
+    ],
+    "boy": [
+      "BOY"
+    ],
+    "girl": [
+      "GIRL"
+    ],
+    "man": [
+      "MAN"
+    ],
+    "woman": [
+      "WOMAN1",
+      "WOMAN2"
+    ],
+    "child": [
+      "CHILD"
+    ],
+    "teacher": [
+      "TEACHER"
+    ],
+    "student": [
+      "STUDENT"
+    ],
+    "doctor": [
+      "DOCTOR1",
+      "DOCTOR2"
+    ],
+    "nurse": [
+      "NURSE"
+    ],
+    "person": [
+      "PERSON"
+    ],
+    "people": [
+      "PEOPLE"
+    ],
+    "name": [
+      "NAME"
+    ],
+    "deaf": [
+      "DEAF1",
+      "DEAF2"
+    ],
+    "hearing": [
+      "HEARING"
+    ],
+    "interpreter": [
+      "INTERPRETER"
+    ],
+    "water": [
+      "WATER"
+    ],
+    "coffee": [
+      "COFFEE"
+    ],
+    "tea": [
+      "TEA"
+    ],
+    "milk": [
+      "MILK1",
+      "MILK2"
+    ],
+    "juice": [
+      "JUICE1",
+      "JUICE2"
+    ],
+    "pizza": [
+      "PIZZA1",
+      "PIZZA2"
+    ],
+    "apple": [
+      "APPLE"
+    ],
+    "banana": [
+      "BANANA1",
+      "BANANA2",
+      "BANANA3",
+      "BANANA4"
+    ],
+    "bread": [
+      "BREAD"
+    ],
+    "fish": [
+      "FISH"
+    ],
+    "egg": [
+      "EGG"
+    ],
+    "soup": [
+      "SOUP"
+    ],
+    "sandwich": [
+      "SANDWICH1",
+      "SANDWICH2",
+      "SANDWICH3",
+      "SANDWICH4"
+    ],
+    "candy": [
+      "CANDY1",
+      "CANDY2"
+    ],
+    "cake": [
+      "CAKE"
+    ],
+    "breakfast": [
+      "BREAKFAST1",
+      "BREAKFAST2"
+    ],
+    "lunch": [
+      "LUNCH1",
+      "LUNCH2"
+    ],
+    "dinner": [
+      "DINNER1",
+      "DINNER2"
+    ],
+    "bed": [
+      "BED1",
+      "BED2"
+    ],
+    "car": [
+      "CAR"
+    ],
+    "bus": [
+      "BUS"
+    ],
+    "airplane": [
+      "AIRPLANE"
+    ],
+    "book": [
+      "BOOK"
+    ],
+    "computer": [
+      "COMPUTER"
+    ],
+    "phone": [
+      "PHONE"
+    ],
+    "tv": [
+      "TV"
+    ],
+    "movie": [
+      "MOVIE1",
+      "MOVIE2"
+    ],
+    "music": [
+      "MUSIC"
+    ],
+    "game": [
+      "GAME"
+    ],
+    "money": [
+      "MONEY1",
+      "MONEY2"
+    ],
+    "shirt": [
+      "SHIRT1",
+      "SHIRT2"
+    ],
+    "shoes": [
+      "SHOES"
+    ],
+    "clothes": [
+      "CLOTHES"
+    ],
+    "test": [
+      "TEST"
+    ],
+    "homework": [
+      "HOMEWORK"
+    ],
+    "medicine": [
+      "MEDICINE"
+    ],
+    "birthday": [
+      "BIRTHDAY"
+    ],
+    "party": [
+      "PARTY1",
+      "PARTY2"
+    ],
+    "basketball": [
+      "BASKETBALL1",
+      "BASKETBALL2",
+      "BASKETBALL3"
+    ],
+    "dog": [
+      "DOG1",
+      "DOG2",
+      "DOG3",
+      "DOG4"
+    ],
+    "cat": [
+      "CAT1",
+      "CAT2",
+      "CAT3"
+    ],
+    "bird": [
+      "BIRD"
+    ],
+    "good": [
+      "GOOD"
+    ],
+    "bad": [
+      "BAD"
+    ],
+    "happy": [
+      "HAPPY"
+    ],
+    "sad": [
+      "SAD"
+    ],
+    "tired": [
+      "TIRED"
+    ],
+    "sick": [
+      "SICK"
+    ],
+    "hungry": [
+      "HUNGRY"
+    ],
+    "thirsty": [
+      "THIRSTY"
+    ],
+    "hot": [
+      "HOT"
+    ],
+    "cold": [
+      "COLD"
+    ],
+    "big": [
+      "BIG"
+    ],
+    "small": [
+      "SMALL"
+    ],
+    "new": [
+      "NEW"
+    ],
+    "old": [
+      "OLD"
+    ],
+    "slow": [
+      "SLOW"
+    ],
+    "busy": [
+      "BUSY"
+    ],
+    "ready": [
+      "READY"
+    ],
+    "right": [
+      "RIGHT1",
+      "RIGHT2",
+      "RIGHT3"
+    ],
+    "wrong": [
+      "WRONG"
+    ],
+    "easy": [
+      "EASY"
+    ],
+    "hard": [
+      "HARD"
+    ],
+    "same": [
+      "SAME1",
+      "SAME2"
+    ],
+    "different": [
+      "DIFFERENT"
+    ],
+    "fun": [
+      "FUN"
+    ],
+    "favorite": [
+      "FAVORITE"
+    ],
+    "excited": [
+      "EXCITED"
+    ],
+    "angry": [
+      "ANGRY"
+    ],
+    "scared": [
+      "SCARED"
+    ],
+    "more": [
+      "MORE"
+    ],
+    "many": [
+      "MANY"
+    ],
+    "all": [
+      "ALL"
+    ],
+    "some": [
+      "SOME"
+    ],
+    "one": [
+      "ONE"
+    ],
+    "two": [
+      "TWO"
+    ],
+    "three": [
+      "THREE"
+    ],
+    "first": [
+      "FIRST"
+    ],
+    "last": [
+      "LAST"
+    ],
+    "very": [
+      "VERY"
+    ],
+    "and": [
+      "AND"
+    ],
+    "but": [
+      "BUT"
+    ],
+    "or": [
+      "OR"
+    ],
+    "with": [
+      "WITH"
+    ],
+    "because": [
+      "BECAUSE"
+    ],
+    "maybe": [
+      "MAYBE"
+    ],
+    "language": [
+      "LANGUAGE"
+    ],
+    "english": [
+      "ENGLISH"
+    ],
+    "fingerspell": [
+      "FINGERSPELL"
+    ],
+    "color": [
+      "COLOR"
+    ],
+    "red": [
+      "RED"
+    ],
+    "blue": [
+      "BLUE"
+    ],
+    "black": [
+      "BLACK"
+    ],
+    "white": [
+      "WHITE"
+    ],
+    "weather": [
+      "WEATHER"
+    ],
+    "rain": [
+      "RAIN"
+    ],
+    "snow": [
+      "SNOW1",
+      "SNOW2"
+    ]
+  },
+  "clip_counts": {
+    "me": {
+      "wlasl": 4,
+      "asl_citizen": 31
+    },
+    "you": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "he": {
+      "wlasl": 0,
+      "asl_citizen": 30
+    },
+    "we": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "they": {
+      "wlasl": 5,
+      "asl_citizen": 58
+    },
+    "my": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "your": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "our": {
+      "wlasl": 4,
+      "asl_citizen": 31
+    },
+    "his": {
+      "wlasl": 4,
+      "asl_citizen": 30
+    },
+    "that": {
+      "wlasl": 4,
+      "asl_citizen": 32
+    },
+    "who": {
+      "wlasl": 14,
+      "asl_citizen": 32
+    },
+    "what": {
+      "wlasl": 12,
+      "asl_citizen": 93
+    },
+    "where": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "when": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "why": {
+      "wlasl": 11,
+      "asl_citizen": 32
+    },
+    "how": {
+      "wlasl": 9,
+      "asl_citizen": 62
+    },
+    "which": {
+      "wlasl": 6,
+      "asl_citizen": 32
+    },
+    "hello": {
+      "wlasl": 4,
+      "asl_citizen": 32
+    },
+    "bye": {
+      "wlasl": 5,
+      "asl_citizen": 30
+    },
+    "please": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "sorry": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "thankyou": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "welcome": {
+      "wlasl": 5,
+      "asl_citizen": 62
+    },
+    "excuse": {
+      "wlasl": 3,
+      "asl_citizen": 30
+    },
+    "yes": {
+      "wlasl": 12,
+      "asl_citizen": 30
+    },
+    "no": {
+      "wlasl": 11,
+      "asl_citizen": 30
+    },
+    "not": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "nice": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "fine": {
+      "wlasl": 9,
+      "asl_citizen": 62
+    },
+    "want": {
+      "wlasl": 9,
+      "asl_citizen": 62
+    },
+    "need": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "like": {
+      "wlasl": 10,
+      "asl_citizen": 30
+    },
+    "love": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "have": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "go": {
+      "wlasl": 15,
+      "asl_citizen": 31
+    },
+    "come": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "eat": {
+      "wlasl": 7,
+      "asl_citizen": 63
+    },
+    "drink": {
+      "wlasl": 15,
+      "asl_citizen": 61
+    },
+    "sleep": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "work": {
+      "wlasl": 10,
+      "asl_citizen": 32
+    },
+    "study": {
+      "wlasl": 10,
+      "asl_citizen": 30
+    },
+    "learn": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "read": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "write": {
+      "wlasl": 10,
+      "asl_citizen": 31
+    },
+    "play": {
+      "wlasl": 11,
+      "asl_citizen": 32
+    },
+    "help": {
+      "wlasl": 14,
+      "asl_citizen": 31
+    },
+    "know": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "understand": {
+      "wlasl": 7,
+      "asl_citizen": 32
+    },
+    "think": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "feel": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "see": {
+      "wlasl": 5,
+      "asl_citizen": 31
+    },
+    "watch": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "hear": {
+      "wlasl": 9,
+      "asl_citizen": 60
+    },
+    "listen": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "tell": {
+      "wlasl": 10,
+      "asl_citizen": 30
+    },
+    "ask": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "give": {
+      "wlasl": 10,
+      "asl_citizen": 30
+    },
+    "take": {
+      "wlasl": 11,
+      "asl_citizen": 30
+    },
+    "buy": {
+      "wlasl": 9,
+      "asl_citizen": 31
+    },
+    "pay": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "make": {
+      "wlasl": 9,
+      "asl_citizen": 31
+    },
+    "cook": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "drive": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "walk": {
+      "wlasl": 11,
+      "asl_citizen": 62
+    },
+    "run": {
+      "wlasl": 7,
+      "asl_citizen": 61
+    },
+    "sit": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "finish": {
+      "wlasl": 9,
+      "asl_citizen": 32
+    },
+    "start": {
+      "wlasl": 4,
+      "asl_citizen": 30
+    },
+    "stop": {
+      "wlasl": 5,
+      "asl_citizen": 31
+    },
+    "wait": {
+      "wlasl": 10,
+      "asl_citizen": 30
+    },
+    "meet": {
+      "wlasl": 9,
+      "asl_citizen": 29
+    },
+    "live": {
+      "wlasl": 6,
+      "asl_citizen": 60
+    },
+    "call": {
+      "wlasl": 12,
+      "asl_citizen": 60
+    },
+    "sign": {
+      "wlasl": 9,
+      "asl_citizen": 31
+    },
+    "remember": {
+      "wlasl": 7,
+      "asl_citizen": 61
+    },
+    "try": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "can": {
+      "wlasl": 9,
+      "asl_citizen": 61
+    },
+    "will": {
+      "wlasl": 4,
+      "asl_citizen": 30
+    },
+    "must": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "should": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "dance": {
+      "wlasl": 7,
+      "asl_citizen": 32
+    },
+    "travel": {
+      "wlasl": 9,
+      "asl_citizen": 32
+    },
+    "visit": {
+      "wlasl": 9,
+      "asl_citizen": 30
+    },
+    "practice": {
+      "wlasl": 9,
+      "asl_citizen": 31
+    },
+    "enjoy": {
+      "wlasl": 8,
+      "asl_citizen": 29
+    },
+    "change": {
+      "wlasl": 12,
+      "asl_citizen": 29
+    },
+    "today": {
+      "wlasl": 9,
+      "asl_citizen": 30
+    },
+    "tomorrow": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "yesterday": {
+      "wlasl": 10,
+      "asl_citizen": 30
+    },
+    "now": {
+      "wlasl": 9,
+      "asl_citizen": 30
+    },
+    "later": {
+      "wlasl": 12,
+      "asl_citizen": 32
+    },
+    "morning": {
+      "wlasl": 6,
+      "asl_citizen": 32
+    },
+    "night": {
+      "wlasl": 5,
+      "asl_citizen": 62
+    },
+    "week": {
+      "wlasl": 9,
+      "asl_citizen": 31
+    },
+    "weekend": {
+      "wlasl": 9,
+      "asl_citizen": 30
+    },
+    "month": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "year": {
+      "wlasl": 10,
+      "asl_citizen": 31
+    },
+    "time": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "day": {
+      "wlasl": 9,
+      "asl_citizen": 29
+    },
+    "always": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "never": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "sometimes": {
+      "wlasl": 5,
+      "asl_citizen": 30
+    },
+    "again": {
+      "wlasl": 8,
+      "asl_citizen": 29
+    },
+    "before": {
+      "wlasl": 16,
+      "asl_citizen": 30
+    },
+    "after": {
+      "wlasl": 7,
+      "asl_citizen": 32
+    },
+    "soon": {
+      "wlasl": 11,
+      "asl_citizen": 62
+    },
+    "late": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "home": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "school": {
+      "wlasl": 9,
+      "asl_citizen": 30
+    },
+    "house": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "restaurant": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "hospital": {
+      "wlasl": 7,
+      "asl_citizen": 63
+    },
+    "library": {
+      "wlasl": 5,
+      "asl_citizen": 31
+    },
+    "class": {
+      "wlasl": 9,
+      "asl_citizen": 30
+    },
+    "room": {
+      "wlasl": 11,
+      "asl_citizen": 30
+    },
+    "bathroom": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "kitchen": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "city": {
+      "wlasl": 9,
+      "asl_citizen": 63
+    },
+    "outside": {
+      "wlasl": 9,
+      "asl_citizen": 30
+    },
+    "here": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "there": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "mother": {
+      "wlasl": 11,
+      "asl_citizen": 32
+    },
+    "father": {
+      "wlasl": 7,
+      "asl_citizen": 29
+    },
+    "sister": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "brother": {
+      "wlasl": 11,
+      "asl_citizen": 32
+    },
+    "family": {
+      "wlasl": 11,
+      "asl_citizen": 30
+    },
+    "friend": {
+      "wlasl": 7,
+      "asl_citizen": 29
+    },
+    "baby": {
+      "wlasl": 9,
+      "asl_citizen": 61
+    },
+    "boy": {
+      "wlasl": 8,
+      "asl_citizen": 32
+    },
+    "girl": {
+      "wlasl": 9,
+      "asl_citizen": 30
+    },
+    "man": {
+      "wlasl": 12,
+      "asl_citizen": 31
+    },
+    "woman": {
+      "wlasl": 11,
+      "asl_citizen": 62
+    },
+    "child": {
+      "wlasl": 9,
+      "asl_citizen": 31
+    },
+    "teacher": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "student": {
+      "wlasl": 8,
+      "asl_citizen": 30
+    },
+    "doctor": {
+      "wlasl": 10,
+      "asl_citizen": 61
+    },
+    "nurse": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "person": {
+      "wlasl": 7,
+      "asl_citizen": 32
+    },
+    "people": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "name": {
+      "wlasl": 6,
+      "asl_citizen": 32
+    },
+    "deaf": {
+      "wlasl": 11,
+      "asl_citizen": 62
+    },
+    "hearing": {
+      "wlasl": 8,
+      "asl_citizen": 32
+    },
+    "interpreter": {
+      "wlasl": 5,
+      "asl_citizen": 30
+    },
+    "water": {
+      "wlasl": 9,
+      "asl_citizen": 30
+    },
+    "coffee": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "tea": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "milk": {
+      "wlasl": 5,
+      "asl_citizen": 61
+    },
+    "juice": {
+      "wlasl": 0,
+      "asl_citizen": 61
+    },
+    "pizza": {
+      "wlasl": 12,
+      "asl_citizen": 62
+    },
+    "apple": {
+      "wlasl": 11,
+      "asl_citizen": 32
+    },
+    "banana": {
+      "wlasl": 9,
+      "asl_citizen": 122
+    },
+    "bread": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "fish": {
+      "wlasl": 10,
+      "asl_citizen": 31
+    },
+    "egg": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "soup": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "sandwich": {
+      "wlasl": 10,
+      "asl_citizen": 122
+    },
+    "candy": {
+      "wlasl": 13,
+      "asl_citizen": 62
+    },
+    "cake": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "breakfast": {
+      "wlasl": 5,
+      "asl_citizen": 62
+    },
+    "lunch": {
+      "wlasl": 6,
+      "asl_citizen": 62
+    },
+    "dinner": {
+      "wlasl": 7,
+      "asl_citizen": 61
+    },
+    "bed": {
+      "wlasl": 13,
+      "asl_citizen": 62
+    },
+    "car": {
+      "wlasl": 7,
+      "asl_citizen": 29
+    },
+    "bus": {
+      "wlasl": 5,
+      "asl_citizen": 31
+    },
+    "airplane": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "book": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "computer": {
+      "wlasl": 14,
+      "asl_citizen": 30
+    },
+    "phone": {
+      "wlasl": 5,
+      "asl_citizen": 29
+    },
+    "tv": {
+      "wlasl": 2,
+      "asl_citizen": 29
+    },
+    "movie": {
+      "wlasl": 5,
+      "asl_citizen": 63
+    },
+    "music": {
+      "wlasl": 8,
+      "asl_citizen": 29
+    },
+    "game": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "money": {
+      "wlasl": 6,
+      "asl_citizen": 62
+    },
+    "shirt": {
+      "wlasl": 12,
+      "asl_citizen": 62
+    },
+    "shoes": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "clothes": {
+      "wlasl": 5,
+      "asl_citizen": 31
+    },
+    "test": {
+      "wlasl": 8,
+      "asl_citizen": 30
+    },
+    "homework": {
+      "wlasl": 5,
+      "asl_citizen": 29
+    },
+    "medicine": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "birthday": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "party": {
+      "wlasl": 9,
+      "asl_citizen": 62
+    },
+    "basketball": {
+      "wlasl": 12,
+      "asl_citizen": 92
+    },
+    "dog": {
+      "wlasl": 11,
+      "asl_citizen": 123
+    },
+    "cat": {
+      "wlasl": 9,
+      "asl_citizen": 90
+    },
+    "bird": {
+      "wlasl": 10,
+      "asl_citizen": 31
+    },
+    "good": {
+      "wlasl": 10,
+      "asl_citizen": 31
+    },
+    "bad": {
+      "wlasl": 10,
+      "asl_citizen": 30
+    },
+    "happy": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "sad": {
+      "wlasl": 8,
+      "asl_citizen": 30
+    },
+    "tired": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "sick": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "hungry": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "thirsty": {
+      "wlasl": 8,
+      "asl_citizen": 29
+    },
+    "hot": {
+      "wlasl": 10,
+      "asl_citizen": 31
+    },
+    "cold": {
+      "wlasl": 12,
+      "asl_citizen": 31
+    },
+    "big": {
+      "wlasl": 9,
+      "asl_citizen": 31
+    },
+    "small": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "new": {
+      "wlasl": 9,
+      "asl_citizen": 31
+    },
+    "old": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "slow": {
+      "wlasl": 8,
+      "asl_citizen": 32
+    },
+    "busy": {
+      "wlasl": 5,
+      "asl_citizen": 31
+    },
+    "ready": {
+      "wlasl": 10,
+      "asl_citizen": 30
+    },
+    "right": {
+      "wlasl": 9,
+      "asl_citizen": 94
+    },
+    "wrong": {
+      "wlasl": 8,
+      "asl_citizen": 30
+    },
+    "easy": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "hard": {
+      "wlasl": 6,
+      "asl_citizen": 31
+    },
+    "same": {
+      "wlasl": 9,
+      "asl_citizen": 62
+    },
+    "different": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "fun": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "favorite": {
+      "wlasl": 5,
+      "asl_citizen": 32
+    },
+    "excited": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "angry": {
+      "wlasl": 7,
+      "asl_citizen": 32
+    },
+    "scared": {
+      "wlasl": 8,
+      "asl_citizen": 32
+    },
+    "more": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "many": {
+      "wlasl": 10,
+      "asl_citizen": 31
+    },
+    "all": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "some": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "one": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "two": {
+      "wlasl": 6,
+      "asl_citizen": 32
+    },
+    "three": {
+      "wlasl": 7,
+      "asl_citizen": 31
+    },
+    "first": {
+      "wlasl": 9,
+      "asl_citizen": 31
+    },
+    "last": {
+      "wlasl": 12,
+      "asl_citizen": 31
+    },
+    "very": {
+      "wlasl": 6,
+      "asl_citizen": 30
+    },
+    "and": {
+      "wlasl": 5,
+      "asl_citizen": 32
+    },
+    "but": {
+      "wlasl": 7,
+      "asl_citizen": 30
+    },
+    "or": {
+      "wlasl": 3,
+      "asl_citizen": 31
+    },
+    "with": {
+      "wlasl": 8,
+      "asl_citizen": 30
+    },
+    "because": {
+      "wlasl": 10,
+      "asl_citizen": 32
+    },
+    "maybe": {
+      "wlasl": 6,
+      "asl_citizen": 32
+    },
+    "language": {
+      "wlasl": 10,
+      "asl_citizen": 30
+    },
+    "english": {
+      "wlasl": 5,
+      "asl_citizen": 30
+    },
+    "fingerspell": {
+      "wlasl": 3,
+      "asl_citizen": 30
+    },
+    "color": {
+      "wlasl": 8,
+      "asl_citizen": 30
+    },
+    "red": {
+      "wlasl": 7,
+      "asl_citizen": 32
+    },
+    "blue": {
+      "wlasl": 8,
+      "asl_citizen": 31
+    },
+    "black": {
+      "wlasl": 10,
+      "asl_citizen": 31
+    },
+    "white": {
+      "wlasl": 10,
+      "asl_citizen": 30
+    },
+    "weather": {
+      "wlasl": 8,
+      "asl_citizen": 29
+    },
+    "rain": {
+      "wlasl": 7,
+      "asl_citizen": 32
+    },
+    "snow": {
+      "wlasl": 10,
+      "asl_citizen": 59
+    }
+  },
+  "test_sentences": [
+    {
+      "english": "Hello, nice to meet you.",
+      "gloss": "HELLO NICE MEET YOU"
+    },
+    {
+      "english": "How are you?",
+      "gloss": "HOW YOU"
+    },
+    {
+      "english": "I'm fine, thank you.",
+      "gloss": "ME FINE THANKYOU"
+    },
+    {
+      "english": "Are you deaf or hearing?",
+      "gloss": "YOU DEAF OR HEARING"
+    },
+    {
+      "english": "I am learning sign language.",
+      "gloss": "ME LEARN SIGN LANGUAGE"
+    },
+    {
+      "english": "Please sign slowly.",
+      "gloss": "PLEASE SIGN SLOW"
+    },
+    {
+      "english": "Sorry, I don't understand.",
+      "gloss": "SORRY ME NOT UNDERSTAND"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "gloss": "BATHROOM WHERE"
+    },
+    {
+      "english": "I'm hungry, I want to eat pizza.",
+      "gloss": "ME HUNGRY WANT EAT PIZZA"
+    },
+    {
+      "english": "Do you want water or coffee?",
+      "gloss": "YOU WANT WATER OR COFFEE"
+    },
+    {
+      "english": "Tomorrow I'm going to school.",
+      "gloss": "TOMORROW ME GO SCHOOL"
+    },
+    {
+      "english": "My mother is cooking dinner.",
+      "gloss": "MY MOTHER COOK DINNER"
+    },
+    {
+      "english": "My sister has a dog.",
+      "gloss": "MY SISTER HAVE DOG"
+    },
+    {
+      "english": "The weather is cold today.",
+      "gloss": "TODAY WEATHER COLD"
+    },
+    {
+      "english": "I'm tired, I want to sleep.",
+      "gloss": "ME TIRED WANT SLEEP"
+    },
+    {
+      "english": "When do you finish work?",
+      "gloss": "YOU FINISH WORK WHEN"
+    },
+    {
+      "english": "Who is your teacher?",
+      "gloss": "YOUR TEACHER WHO"
+    },
+    {
+      "english": "I like to read books.",
+      "gloss": "ME LIKE READ BOOK"
+    },
+    {
+      "english": "My friend is sick and went to the hospital.",
+      "gloss": "MY FRIEND SICK GO HOSPITAL"
+    },
+    {
+      "english": "Let's meet at the restaurant tomorrow night.",
+      "gloss": "TOMORROW NIGHT WE MEET RESTAURANT"
+    },
+    {
+      "english": "Do you need help?",
+      "gloss": "YOU NEED HELP"
+    },
+    {
+      "english": "I love my family.",
+      "gloss": "ME LOVE MY FAMILY"
+    },
+    {
+      "english": "Every morning I drink coffee.",
+      "gloss": "MORNING ME DRINK COFFEE"
+    },
+    {
+      "english": "Why are you sad?",
+      "gloss": "YOU SAD WHY"
+    },
+    {
+      "english": "My brother plays basketball.",
+      "gloss": "MY BROTHER PLAY BASKETBALL"
+    },
+    {
+      "english": "Where do you live?",
+      "gloss": "YOU LIVE WHERE"
+    },
+    {
+      "english": "I want to buy new shoes.",
+      "gloss": "ME WANT BUY NEW SHOES"
+    },
+    {
+      "english": "We are going home now.",
+      "gloss": "NOW WE GO HOME"
+    },
+    {
+      "english": "Bye, see you later!",
+      "gloss": "BYE SEE YOU LATER"
+    },
+    {
+      "english": "Please wait for me.",
+      "gloss": "PLEASE WAIT ME"
+    },
+    {
+      "english": "Yesterday I watched a movie with my friend.",
+      "gloss": "YESTERDAY ME WATCH MOVIE WITH MY FRIEND"
+    },
+    {
+      "english": "What's your favorite food?",
+      "gloss": "YOUR FAVORITE EAT WHAT"
+    },
+    {
+      "english": "The doctor will help the sick baby.",
+      "gloss": "DOCTOR WILL HELP SICK BABY"
+    },
+    {
+      "english": "Can you call me tomorrow?",
+      "gloss": "TOMORROW YOU CALL ME CAN"
+    },
+    {
+      "english": "I'm happy, it's my birthday today.",
+      "gloss": "TODAY MY BIRTHDAY ME HAPPY"
+    }
+  ]
+}

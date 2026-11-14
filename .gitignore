@@ -1,0 +1,28 @@
+# Virtual environments
+asl_env/
+venv/
+.env/
+myenv/
+
+# Any env folder in subdirectories
+**/asl_env/
+**/venv/
+**/.env/
+**/myenv/
+
+# Python cache
+data/__pycache__/
+**/__pycache__/
+
+# --- ASL Citizens ---
+# Keep the asl_citizens folder and .gitkeep, but ignore the heavy zips and extracted data
+data/asl_citizens/*
+!data/asl_citizens/.gitkeep
+
+# --- WLASL ---
+# Ignore bulky cache and downloaded raw data folders inside wlasl, 
+# while keeping download scripts, README, and attributes tracked
+data/wlasl/.cache/
+data/wlasl/data/
+
+# Note: data/feature_extraction/ and all its files are intentionally NOT ignored so they remain tracked.
