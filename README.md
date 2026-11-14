@@ -88,8 +88,8 @@ sbatch data/feature_extraction/extract.sbatch         # parallel keypoint extrac
 
 ## Team
 
-Built as a team project for [course name / Gatehacks 2025] by:
-- [Your name]: [your parts, e.g. HPC pipeline, dataset scale-up, vocabulary design]
+Built as a team project for Deep Learning class CPSCI 366:
+- Gideon Kobea
 - Ritchie Registre
 
 ## Data and licenses
